@@ -1,0 +1,2 @@
+# GhostAPI
+Simples APIs
